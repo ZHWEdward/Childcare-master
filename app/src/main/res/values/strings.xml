@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">儿童监测</string>
+    <string name="tab1">运动</string>
+    <string name="tab2">监测</string>
+    <string name="tab3">评分</string>
+    <string name="tab4">个人信息</string>
+</resources>
